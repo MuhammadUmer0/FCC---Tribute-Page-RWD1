@@ -1,1 +1,1 @@
-https://github.com/MuhammadUmer0/FCC---Tribute-Page-RWD1.git
+https://muhammadumer0.github.io/FCC---Tribute-Page-RWD1/
